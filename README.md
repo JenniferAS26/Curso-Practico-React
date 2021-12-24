@@ -8,3 +8,4 @@
 - 5. npm install babel-loader html-loader html-webpack-plugin 
 - 6. npm install mini-css-extract-plugin css-loader style-loader sass -D
 - 7. npm install react-router-dom
+- 8. npm install react-router-dom@5.2.0
