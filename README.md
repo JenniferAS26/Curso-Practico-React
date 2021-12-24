@@ -7,3 +7,4 @@
 - 4. npm install webpack webpack-cli webpack-dev-server
 - 5. npm install babel-loader html-loader html-webpack-plugin 
 - 6. npm install mini-css-extract-plugin css-loader style-loader sass -D
+- 7. npm install react-router-dom
